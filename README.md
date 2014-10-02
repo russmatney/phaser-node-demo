@@ -1,6 +1,5 @@
-# 
-
-dmoe
+node-phaser
+===========
 
 ## Pre-requesits
 
@@ -27,3 +26,8 @@ Happy gaming!
 [node]:       http://nodejs.org/
 [gulp]:       http://gulpjs.com/
 [browserify]: http://browserify.org/
+
+phaser-node-demo
+================
+
+Built from [slush-phaser-node](https://github.com/Eruant/slush-phaser-node)
